@@ -1,0 +1,113 @@
+{
+  "main": {
+    "name": "Steve Mullins",
+    "description": "Hello, my name is Steve. I am a project manager specializing in technical fields such as Space Science, Software, Chemistry and Environmental Science who is currently looking for a position in a company as a Software Developer",
+    "image": "profilepic.jpg",
+    "bio": "I am a self-taught programming student focusing primarily on Javascript and nodeJS with other bits of technology sprinkled in here and there. Before my plunge into coding I was working on NASA's Cassini Mission to Saturn, a very exciting job that introduced me to many Sys. Admins and Software Engineers who inspired me to pursue a career in Software Development. When I am not studying I am usually climbing, fishing, cooking or fixing broken cars/motorcycles.",
+    "contactmessage": "Have any questions? Want to collaborate on a project? Feel free to contact me!",
+    "email": "sgmullins@gmail.com",
+    "phone": "303-875-3725",
+    "github": "https://github.com/sgmullins",
+    "linkedin": "https://www.linkedin.com/in/steve-mullins-8b8782192/",
+    "address": {
+      "street": "1800 Alpine Ave. Apt 3",
+      "city": "Boulder",
+      "state": "CO",
+      "zip": "80304"
+    },
+    "website": "http://www.stevemullins.dev",
+    "resumedownload": "https://drive.google.com/file/d/1_No5sj-SRSyxg4vD-KZI1Q4pvt6g0QBu/view?usp=sharing",
+    "social": [{
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com/in/steve-mullins-8b8782192/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sgmullins",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of the skills I have picked up during previous employment",
+    "education": [{
+        "school": "University of Colorado Boulder",
+        "degree": "BA",
+        "graduated": "2007",
+        "description": "Core curriculum for Pre-Pharmacy/Neuroscience program. General study of Biology, Physics, Math, Chemistry, and my favorite, Organic Chemistry. Though I didn't know it at the time, Organic Chemistry involves a very similar skill set as software engineering. Many different problems to solve and many different ways to solve the problems."
+      },
+      {
+        "school": "Udemy, Harvard EDX, Linux Foundation and more",
+        "degree": "C.S., Javascript, NodeJS, Full Stack Web Development",
+        "graduated": "2017 - Now",
+        "description": "Around early 2017 while working side by side with many other software engineers, I decided to start a self study of programming. I began with the Harvard EDX CS50 class. After that class I knew I wanted to pursue software engineering. I learned what I could from co-workers and upon mission end I started taking online courses through Udemy and completing personal projects. I continue to take courses daily in hopes of improving my skills as a software developer. "
+      }
+    ],
+    "work": [{
+        "company": "NASA's Cassini Imaging Team",
+        "title": "Deputy Director Cassini Imaging Team (ISSOPS)",
+        "years": "Aug. 2011 - July 2019 (End of Mission)",
+        "description": "An exciting position working on one of NASA's most successful and longest running missions. I was in charge of processing images for web releases, coordinating web projects between JPL and ISSOPS and a project manager for the imaging team, managing up to 10 scientists and software engineers who were developing mission critical software/databases and pointing designs for the spacecraft. In this position I became familiar with Linux cmd line navigation, server maintenance and setup, Javascript, PHP, MySQL navigation, HTML/CSS and IDL."
+      },
+      {
+        "company": "UCLA Olympic Laboratory",
+        "title": "Chemistry Supervisor",
+        "years": "2010 - 2011",
+        "description": "Supervised 18+ employees in one of the world's busiest WADA-accredited laboratories. Learned how to manage people more effectively and how work within a large ecosystem consisting of many departments and many different procedures. Lived in a big city, far away from mountains and learned not to live in a big city, far away from mountains."
+      }
+    ],
+    "skills": [{
+        "name": "HTML/CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "30%"
+      },
+      {
+        "name": "React",
+        "level": "20%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Management",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [{
+        "title": "Gear Swap",
+        "category": "A Craigslist style site where users can sell used outdoor gear. My first medium sized nodeJS app that features userAuth, image storage, heroku deployment and location.",
+        "image": "gear-swap.jpg",
+        "url": "https://frozen-inlet-37523.herokuapp.com/"
+      },
+      {
+        "title": "WorkIn",
+        "category": "My current side project. Fullstack app where users can share remote working locations and comment on features. NodeJS/express/cloudinary/multer, will later use React/googleMaps",
+        "image": "workin.jpg",
+        "url": "https://github.com/sgmullins/WorkIn_app"
+      },
+      {
+        "title": "WolfGang Bio",
+        "category": "This project is from a job interview challenge. Given a timeline I was to create a bio page using only HTML/CSS. The main challenge was to create a visual appealing and engaging site without the use of Javascript.",
+        "image": "wolfgang.jpg",
+        "url": "https://www.stevemullins.dev/wolfgang/"
+      },
+      {
+        "title": "Family Blog",
+        "category": "Website I built for my family travels. I used a CMS as making quick updates from anywhere in the world on any device and internet connection is a breeze.",
+        "image": "yama.jpg",
+        "url": "https://www.yamaclimbing.com/"
+      }
+    ]
+  }
+}
