@@ -17,7 +17,8 @@
     },
     "website": "http://www.stevemullins.dev",
     "resumedownload": "https://drive.google.com/file/d/1_No5sj-SRSyxg4vD-KZI1Q4pvt6g0QBu/view?usp=sharing",
-    "social": [{
+    "social": [
+      {
         "name": "linkedIn",
         "url": "https://www.linkedin.com/in/steve-mullins-8b8782192/",
         "className": "fa fa-linkedin"
@@ -31,7 +32,8 @@
   },
   "resume": {
     "skillmessage": "Some of the skills I have picked up during previous employment",
-    "education": [{
+    "education": [
+      {
         "school": "University of Colorado Boulder",
         "degree": "BA",
         "graduated": "2007",
@@ -44,7 +46,8 @@
         "description": "Around early 2017 while working side by side with many other software engineers, I decided to start a self study of programming. I began with the Harvard EDX CS50 class. After that class I knew I wanted to pursue software engineering. I learned what I could from co-workers and upon mission end I started taking online courses through Udemy and completing personal projects. I continue to take courses daily in hopes of improving my skills as a software developer. "
       }
     ],
-    "work": [{
+    "work": [
+      {
         "company": "NASA's Cassini Imaging Team",
         "title": "Deputy Director Cassini Imaging Team (ISSOPS)",
         "years": "Aug. 2011 - July 2019 (End of Mission)",
@@ -57,21 +60,22 @@
         "description": "Supervised 18+ employees in one of the world's busiest WADA-accredited laboratories. Learned how to manage people more effectively and how work within a large ecosystem consisting of many departments and many different procedures. Lived in a big city, far away from mountains and learned not to live in a big city, far away from mountains."
       }
     ],
-    "skills": [{
+    "skills": [
+      {
         "name": "HTML/CSS",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "Javascript",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "NodeJs",
-        "level": "30%"
+        "level": "50%"
       },
       {
         "name": "React",
-        "level": "20%"
+        "level": "60%"
       },
       {
         "name": "Git",
@@ -84,11 +88,36 @@
     ]
   },
   "portfolio": {
-    "projects": [{
+    "projects": [
+      {
         "title": "Gear Swap",
         "category": "A Craigslist style site where users can sell used outdoor gear. My first medium sized nodeJS app that features userAuth, image storage, heroku deployment and location.",
         "image": "gear-swap.jpg",
         "url": "https://frozen-inlet-37523.herokuapp.com/"
+      },
+      {
+        "title": "HomeMade",
+        "category": "Food Delivery type app. Still a work in progress. Using Graphql Apollo on the backend, React and ApolloProvider on the frontend",
+        "image": "homemade.jpg",
+        "url": "https://github.com/sgmullins/HomeMade"
+      },
+      {
+        "title": "Food Chat",
+        "category": "Work in progress. Another exploration with GraphQL and realtime subscriptions. Will be converted into a mobile feature for HomeMade app.",
+        "image": "foodchat.jpg",
+        "url": "https://stevemullins.dev"
+      },
+      {
+        "title": "Funky fun with React and APIs",
+        "category": "Exploring API calls and rendering images in carousel style in React. Stepping stone towards a bigger idea.",
+        "image": "react-MP.jpg",
+        "url": "https://github.com/sgmullins/mp-battle"
+      },
+      {
+        "title": "Favorite Food Site",
+        "category": "Another step towards a bigger idea. Learning React a bit more. Rendering shopping carts and items depending on state.",
+        "image": "zeroWebSite.jpg",
+        "url": "https://github.com/sgmullins/RestaurantPageTemplate"
       },
       {
         "title": "WorkIn",
@@ -100,7 +129,7 @@
         "title": "WolfGang Bio",
         "category": "This project is from a job interview challenge. Given a timeline I was to create a bio page using only HTML/CSS. The main challenge was to create a visual appealing and engaging site without the use of Javascript.",
         "image": "wolfgang.jpg",
-        "url": "https://www.stevemullins.dev/wolfgang/"
+        "url": "https://sgmullins.github.io/wolfgang/"
       },
       {
         "title": "Family Blog",
